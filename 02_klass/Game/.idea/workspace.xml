@@ -4,25 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="928416a3-2fb1-4df9-8e04-850f258c991f" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Item.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Game/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Game/Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Game/Player.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Game/Player.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Game/World.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Game/World.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Player.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Player.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/World.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/World.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../03_klassikomplekt/Klassikomplekt/src/Arvuti.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../03_klassikomplekt/Klassikomplekt/src/Arvuti.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../03_klassikomplekt/Klassikomplekt/src/Info.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../03_klassikomplekt/Klassikomplekt/src/Info.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../03_klassikomplekt/Klassikomplekt/src/Isik.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../03_klassikomplekt/Klassikomplekt/src/Isik.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../03_klassikomplekt/Klassikomplekt/src/KontaktAndmed.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../03_klassikomplekt/Klassikomplekt/src/KontaktAndmed.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../03_klassikomplekt/Klassikomplekt/src/Koostiosa.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../03_klassikomplekt/Klassikomplekt/src/Koostiosa.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../03_klassikomplekt/Klassikomplekt/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../03_klassikomplekt/Klassikomplekt/src/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../03_klassikomplekt/Klassikomplekt/src/Tellimus.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../03_klassikomplekt/Klassikomplekt/src/Tellimus.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../03_klassikomplekt/Klassikomplekt/src/Toode.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../03_klassikomplekt/Klassikomplekt/src/Toode.java" afterDir="false" />
-    </list>
+    <list default="true" id="928416a3-2fb1-4df9-8e04-850f258c991f" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
