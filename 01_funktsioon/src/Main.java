@@ -46,8 +46,10 @@ public class Main {
         }
     }
 
+    // int on tagastustüüp ehk mis järgneb return kirjele
     private static int getRandomXCoordinate(int worldWidth) {
         return (int) (Math.random() * (worldWidth - 2) + 1);
+        // returni järel tuleb täisarv
     }
 
     // void on tagastustüüp ehk mis tüüp järgneb return kirjale
