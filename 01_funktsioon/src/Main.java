@@ -1,3 +1,5 @@
+import java.util.Scanner;
+
 public class Main {
 
     //fori
@@ -12,6 +14,9 @@ public class Main {
         byte pisikeNumber = 100;
         short lyhikeNumber = 312;
         long pikkNumber = 31312321312L;*/
+
+        Scanner scanner = new Scanner(System.in);
+        scanner.nextLine();
 
         int worldWidth = 10;
         int worldHeight = 5;
