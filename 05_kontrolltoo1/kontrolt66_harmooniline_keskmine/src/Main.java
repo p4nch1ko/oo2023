@@ -17,7 +17,7 @@ public class Main {
 
 //  kiirusedTekstiFail.txt  <-- teksti fail kus on kiirused
 
-    public static void main(String[] args) {
+    public static void main(String[] args) throws FileNotFoundException {
         double kiirus1 = 65.0; // km/h
         double kiirus2 = 40.0; // km/h
         double keskmine1 = keskmineKiirus(kiirus1, kiirus2);
@@ -31,7 +31,7 @@ public class Main {
 
         // ------------------------------------------------------------------------------------
 
-        Scanner scanner = new Scanner(new File("kiirused.txt"));
+        Scanner scanner = new Scanner(new File("Kiirused.txt"));
 
         double kiirusedSumma = 0;
         int kmKokku = 0;
