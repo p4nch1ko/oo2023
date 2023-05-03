@@ -21,23 +21,29 @@ public class World {
                     symbol = '-';
                 }else if (x == 0 || x == worldWidth -1){
                     symbol = '|';
-                } else{
+                } else {
                     // ctrl + alt + m
                     // parem klõps -> refactor -> extract method
-                    for (Item i: items){
-                        if(i.yCoordinate == y && i.xCoordinate == x) {
+                    for (Item i : items) {
+                        if (i.yCoordinate == y && i.xCoordinate == x) {
                             symbol = 'I';
                             break;
                         }
                     }
 
-                    if(playerXCoordinate == x && playerYCoordinate == y) {
+                    if (playerXCoordinate == x && playerYCoordinate == y) {
                         symbol = playerSymbol;
                     } else if (dragonXCoordinate == x && dragonYCoordinate == y) { // aktiveerin + parem klõps + refactor + rename
                         symbol = dragonSymbol;
                     } else if (orcXCoordinate == x && orcYCoordinate == y) {
                         symbol = orcSymbol;
                     }
+//                    for (Character c: characters) {
+//                        if (c.xCoordinate == x && c.yCoordinate == y) {
+//                            symbol = c.symbol;
+//                            break;
+//                        }
+//                    }
                     // ctrl + alt + N
                 }
                 System.out.print(symbol);

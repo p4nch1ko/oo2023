@@ -29,6 +29,9 @@ public class Main {
         Player player = new Player(world.width, world.height);
         Dragon dragon = new Dragon(world.width, world.height);
         Orc orc = new Orc(world.width, world.height);
+        // MITTE java.long import
+        // saatke printMap sisse hoopis character ja if/else asemel funktsiooni sees forEach tsükkel
+        List<Character> characters = new ArrayList<>(Arrays.asList(player, dragon, orc));
 
         Item sword = new Item(10, 1, "Mõõk", world.width, world.height);
         Item hammer = new Item(5, 3, "Haamer", world.width, world.height);
@@ -43,14 +46,16 @@ public class Main {
         Item[] items1 = {sword, hammer, boot};
         //Array -> ei ole muudetav (read-only)
 
-        world.printMap(world.width, world.height, player.xCoordinate, player.yCoordinate, player.symbol,
+        world.printMap(world.width, world.height,
+                player.xCoordinate, player.yCoordinate, player.symbol,
                 dragon.xCoordinate, dragon.yCoordinate, dragon.symbol,
                 orc.xCoordinate, orc.yCoordinate, orc.symbol, items);
         String input = scanner.nextLine();
         // for (; !input.equals("end"; ) 
         while (!input.equals("end")) {
             player.move(input, world);
-            world.printMap(world.width, world.height, player.xCoordinate, player.yCoordinate, player.symbol,
+            world.printMap(world.width, world.height,
+                    player.xCoordinate, player.yCoordinate, player.symbol,
                     dragon.xCoordinate, dragon.yCoordinate, dragon.symbol,
                     orc.xCoordinate, orc.yCoordinate, orc.symbol, items);
             System.out.println();

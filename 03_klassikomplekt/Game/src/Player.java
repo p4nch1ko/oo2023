@@ -1,22 +1,12 @@
-public class Player {
-    int xCoordinate; // täisarvuline number
-    int yCoordinate; // castimine ehk teisendamine ühest tüübist teise
-    char symbol;
-    Direction  direction; //3nda tunni teema
-// xCoordinaate, yCoordinate, tugevusest, kasutuskordadest, nimest
-    Item item; // klassikomplekt Player klassi sees on Item klass
-
-
+public class Player extends Character {
+    Direction  direction;
+    Item item;
     // constructor
     public Player(int worldWidth, int worldHeight) {
-        this.xCoordinate = getRandomCoordinate(worldWidth);
-        this.yCoordinate = getRandomCoordinate(worldHeight);
-        this.symbol = 'X';
+       super(worldWidth, worldHeight, 'X');
         this.direction = Direction.UP;
     }
-    private static int getRandomCoordinate(int worldWidth) {
-        return (int) (Math.random() * (worldWidth - 2) + 1);
-    }
+
     //public tähendab et mõni teine klass saab seda funktsiooni välja kasutada
     //private tähendab, et seda funktsiooni ainult selles klassis kasutada
     public void move(String input, World world) {
