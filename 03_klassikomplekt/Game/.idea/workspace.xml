@@ -5,36 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="928416a3-2fb1-4df9-8e04-850f258c991f" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Character.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/WorldObject.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../06_liides/projekt/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../06_liides/projekt/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../06_liides/projekt/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../06_liides/projekt/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../06_liides/projekt/out/production/projekt/Andmed.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../06_liides/projekt/out/production/projekt/Isikukood.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../06_liides/projekt/out/production/projekt/IsikukoodEE.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../06_liides/projekt/out/production/projekt/IsikukoodFI.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../06_liides/projekt/out/production/projekt/IsikukoodLV.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../06_liides/projekt/out/production/projekt/IsikukoodSW.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../06_liides/projekt/out/production/projekt/Main.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../06_liides/projekt/projekt.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../06_liides/projekt/src/Andmed.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../06_liides/projekt/src/AutomaatneTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../06_liides/projekt/src/Isikukood.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../06_liides/projekt/src/IsikukoodEE.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../06_liides/projekt/src/IsikukoodFI.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../06_liides/projekt/src/IsikukoodLV.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../06_liides/projekt/src/IsikukoodSW.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../06_liides/projekt/src/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../02_klass/Game/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../02_klass/Game/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Dragon.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Dragon.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Item.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Item.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Orc.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Orc.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Player.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Player.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/World.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/World.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../06_liides/Kujundid/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../06_liides/Kujundid/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../06_liides/Kujundid/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../06_liides/Kujundid/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../06_liides/Kujundid/src/AutomaatTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../06_liides/Kujundid/src/AutomaatTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../06_liides/Kujundid/src/Tasapinnaline.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../06_liides/Kujundid/src/Tasapinnaline.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
