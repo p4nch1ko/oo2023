@@ -5,8 +5,18 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="39eeac43-b489-47b4-8ccb-398884fa1178" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../../09_tunnirakenduse_lahendus/Primitiivid/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../09_tunnirakenduse_lahendus/Primitiivid/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../09_tunnirakenduse_lahendus/Primitiivid/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../09_tunnirakenduse_lahendus/Primitiivid/mvnw" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../09_tunnirakenduse_lahendus/Primitiivid/mvnw.cmd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../09_tunnirakenduse_lahendus/Primitiivid/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../09_tunnirakenduse_lahendus/Primitiivid/src/main/java/ee/nicol/primitiivid/PrimitiividApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../09_tunnirakenduse_lahendus/Primitiivid/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../09_tunnirakenduse_lahendus/Primitiivid/src/test/java/ee/nicol/primitiivid/PrimitiividApplicationTests.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../03_klassikomplekt/Game/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../03_klassikomplekt/Game/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../03_klassikomplekt/Game/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../03_klassikomplekt/Game/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -56,7 +66,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1683125839804</updated>
-      <workItem from="1683125840888" duration="1632000" />
+      <workItem from="1683125840888" duration="3158000" />
     </task>
     <servers />
   </component>
