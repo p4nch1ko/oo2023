@@ -5,16 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="39eeac43-b489-47b4-8ccb-398884fa1178" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Arvutused.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/AutomaatTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Kolmnurk.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Roopkuulik.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ruut.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Tasapinnaline.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../03_klassikomplekt/Game/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../03_klassikomplekt/Game/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../03_klassikomplekt/Game/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../03_klassikomplekt/Game/src/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -64,7 +56,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1683125839804</updated>
-      <workItem from="1683125840888" duration="914000" />
+      <workItem from="1683125840888" duration="1632000" />
     </task>
     <servers />
   </component>
