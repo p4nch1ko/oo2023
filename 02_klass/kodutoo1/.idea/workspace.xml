@@ -4,13 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="89d6274d-17dc-4650-bf0b-a630bea4d783" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/../../02_klass/kodus2/src/Muuja.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../02_klass/kodus2/src/Ostja.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../03_klassikomplekt/kodus3/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../03_klassikomplekt/kodus3/src/Main.java" afterDir="false" />
-    </list>
+    <list default="true" id="89d6274d-17dc-4650-bf0b-a630bea4d783" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -33,7 +27,7 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "C:/Users/momos/Documents/GitHub/oo2023/01_funktsioon/kodutoo1",
+    "last_opened_file_path": "C:/Users/momos/Documents/GitHub/oo2023/02_klass/kodutoo1",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -51,7 +45,6 @@
       <updated>1683221166283</updated>
       <workItem from="1683221167411" duration="2579000" />
       <workItem from="1683266837801" duration="690000" />
-      <workItem from="1683268966173" duration="655000" />
     </task>
     <servers />
   </component>

@@ -4,13 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="89d6274d-17dc-4650-bf0b-a630bea4d783" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/../../02_klass/kodus2/src/Muuja.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../02_klass/kodus2/src/Ostja.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../03_klassikomplekt/kodus3/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../03_klassikomplekt/kodus3/src/Main.java" afterDir="false" />
-    </list>
+    <list default="true" id="8670bded-8ab9-4b5c-b393-ec77a271d47f" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -22,7 +16,7 @@
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
-  <component name="ProjectId" id="2PL0gO9lxAuwdid5qqYYfWgTPkd" />
+  <component name="ProjectId" id="2PKrmWr9sHLy0vNkC8A85FrR97s" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -33,7 +27,7 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "C:/Users/momos/Documents/GitHub/oo2023/01_funktsioon/kodutoo1",
+    "last_opened_file_path": "C:/Users/momos/Documents/GitHub/oo2023/03_klassikomplekt",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -44,14 +38,12 @@
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="89d6274d-17dc-4650-bf0b-a630bea4d783" name="Changes" comment="" />
-      <created>1683221166283</created>
+      <changelist id="8670bded-8ab9-4b5c-b393-ec77a271d47f" name="Changes" comment="" />
+      <created>1683216776842</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1683221166283</updated>
-      <workItem from="1683221167411" duration="2579000" />
-      <workItem from="1683266837801" duration="690000" />
-      <workItem from="1683268966173" duration="655000" />
+      <updated>1683216776842</updated>
+      <workItem from="1683216777953" duration="4959000" />
     </task>
     <servers />
   </component>
