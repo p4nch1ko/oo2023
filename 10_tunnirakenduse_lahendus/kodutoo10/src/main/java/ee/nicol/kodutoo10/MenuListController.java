@@ -32,14 +32,14 @@ public class MenuListController {
 
     //localhost:8080/kustuta-menu/1
     @GetMapping("kustuta-menu/{index}")
-    public String kustutaRoog(@PathVariable int index) {
+    public String kustutaMenu(@PathVariable int index) {
         roog.remove(index);
         return "Roog oli kustutatud!";
     }
 
     //localhost:8080/lisa-roog/6/Burgir/5
     @GetMapping("lisa-roog/{id}/{nimi}/{hind}")
-    public List<Menu> lisaRoog(
+    public List<Menu> lisaMenu(
             @PathVariable int id,
             @PathVariable String nimi,
             @PathVariable double hind) {

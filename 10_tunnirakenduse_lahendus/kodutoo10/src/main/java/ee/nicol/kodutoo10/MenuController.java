@@ -2,7 +2,6 @@ package ee.nicol.kodutoo10;
 
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.PathVariable;
-import org.springframework.web.bind.annotation.RequestParam;
 
 import java.util.List;
 
@@ -16,10 +15,10 @@ public class MenuController {
     }
 
     //localhost:8080/kustuta-roog/1
-    @GetMapping("kustuta-roog/{id]")
-    public String kustutaRoog() {
+    @GetMapping("kustuta-roog/{id}")
+    public String kustutaRoog(@PathVariable int id) {
         roog = null;
-        return "Roog oli ustutatud!";
+        return "Roog oli kustutatud!";
     }
 
 

@@ -32,14 +32,14 @@ public class KlientController {
         return "Klient kustutatud!";
     }
 
-    //localhost:8080/lisa-klient
+    ////localhost:8080/lisa-klient?id=5&eesnimi=Mihkel&perenimi=Rattasepp&telNum=5555555
     @PostMapping("lisa-klient")
     public List<Klient> lisaKlient(
             @RequestParam int id,
             @RequestParam String eesnimi,
             @RequestParam String perenimi,
-            @RequestParam String telNum) {
-        boolean add = kliendid.add(new Klient());
+            @RequestParam int telNum) {
+        kliendid.add(new Klient(6,"Mihkel","Rattasepp", 5555555));
         return kliendid;
     }
 }

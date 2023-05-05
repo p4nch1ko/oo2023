@@ -5,11 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="89d6274d-17dc-4650-bf0b-a630bea4d783" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/../../02_klass/kodus2/src/Muuja.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../02_klass/kodus2/src/Ostja.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../03_klassikomplekt/kodus3/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../03_klassikomplekt/kodus3/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../10_tunnirakenduse_lahendus/kodutoo10/src/main/java/ee/nicol/kodutoo10/KlientController.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../10_tunnirakenduse_lahendus/kodutoo10/src/main/java/ee/nicol/kodutoo10/KlientController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../10_tunnirakenduse_lahendus/kodutoo10/src/main/java/ee/nicol/kodutoo10/MenuController.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../10_tunnirakenduse_lahendus/kodutoo10/src/main/java/ee/nicol/kodutoo10/MenuController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../10_tunnirakenduse_lahendus/kodutoo10/src/main/java/ee/nicol/kodutoo10/MenuListController.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../10_tunnirakenduse_lahendus/kodutoo10/src/main/java/ee/nicol/kodutoo10/MenuListController.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -51,7 +50,7 @@
       <updated>1683221166283</updated>
       <workItem from="1683221167411" duration="2579000" />
       <workItem from="1683266837801" duration="690000" />
-      <workItem from="1683268966173" duration="655000" />
+      <workItem from="1683268966173" duration="3015000" />
     </task>
     <servers />
   </component>
