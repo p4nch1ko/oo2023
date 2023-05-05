@@ -31,7 +31,7 @@ public class TellimusController {
 
 
     // DELETE localhost:8080/kustuta-tellimus/1
-    @GetMapping("kustuta-tellimus/{index}")
+    @DeleteMapping("kustuta-tellimus/{index}")
     public String kustutaTellimus(@PathVariable int index) {
         tellimused.remove(index);
         return "Tellimus oli kustutatud!";
@@ -46,10 +46,10 @@ public class TellimusController {
             @RequestParam int roogIndex) {
         Klient klient = klientController.kliendid.get(klientIndex);
 
-        Menu tellitudRoog = menuListController.roog.get(roogIndex);
-        List<Menu> tellitudRoad = new ArrayList<>(Arrays.asList(tellitudRoog));
+        Menu tellitudTellimused = menuListController.roog.get(roogIndex);
+        List<Menu> tellitudRoog = new ArrayList<>(Arrays.asList(tellitudTellimused));
 
-        tellimused.add(new Tellimus(id, klient, tellitudRoad));
+        tellimused.add(new Tellimus(id, klient, tellitudRoog));
         return tellimused;
     }
 

@@ -5,20 +5,18 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="89d6274d-17dc-4650-bf0b-a630bea4d783" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/kodutoo1.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../10_tunnirakenduse_lahendus/kodutoo10/src/main/java/ee/nicol/kodutoo10/Klient.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../10_tunnirakenduse_lahendus/kodutoo10/src/main/java/ee/nicol/kodutoo10/KlientController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../10_tunnirakenduse_lahendus/kodutoo10/src/main/java/ee/nicol/kodutoo10/Menu.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../10_tunnirakenduse_lahendus/kodutoo10/src/main/java/ee/nicol/kodutoo10/MenuController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../10_tunnirakenduse_lahendus/kodutoo10/src/main/java/ee/nicol/kodutoo10/MenuListController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../10_tunnirakenduse_lahendus/kodutoo10/src/main/java/ee/nicol/kodutoo10/Tellimus.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../10_tunnirakenduse_lahendus/kodutoo10/src/main/java/ee/nicol/kodutoo10/TellimusController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../10_tunnirakenduse_lahendus/kodutoo_10/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kodutoo_2/kodutoo_2.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../03_klassikomplekt/.idea/03_klassikomplekt.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../03_klassikomplekt/kodus3/kodus3.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../03_klassikomplekt/kodus3/src/Klient.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../03_klassikomplekt/kodus3/src/Tellimus.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../01_funktsioon/kodutoo_1/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../01_funktsioon/kodutoo_1/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Game/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Game/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../03_klassikomplekt/kodus_1/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../03_klassikomplekt/kodus_1/src/Telimus.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../03_klassikomplekt/kodus_1/src/roog.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../10_tunnirakenduse_lahendus/kodutoo10/src/main/java/ee/nicol/kodutoo10/TellimusController.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../10_tunnirakenduse_lahendus/kodutoo10/src/main/java/ee/nicol/kodutoo10/TellimusController.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -40,7 +38,9 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "C:/Users/momos/Documents/GitHub/oo2023/02_klass/kodutoo1",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -56,7 +56,8 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1683221166283</updated>
-      <workItem from="1683221167411" duration="2406000" />
+      <workItem from="1683221167411" duration="2579000" />
+      <workItem from="1683266837801" duration="690000" />
     </task>
     <servers />
   </component>

@@ -5,11 +5,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="928416a3-2fb1-4df9-8e04-850f258c991f" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../../01_funktsioon/kodutoo_1/.idea/workspace.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../kodutoo1/.idea/misc.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../kodutoo1/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../kodutoo1/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kodutoo1/.idea/vcs.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../kodutoo1/kodutoo1.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kodutoo1/out/production/kodutoo1/Main.class" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../kodutoo1/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kodutoo2/kodutoo2.iml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../../10_tunnirakenduse_lahendus/kodutoo10/src/main/java/ee/nicol/kodutoo10/Klient.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../../10_tunnirakenduse_lahendus/kodutoo10/src/main/java/ee/nicol/kodutoo10/KlientController.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../../10_tunnirakenduse_lahendus/kodutoo10/src/main/java/ee/nicol/kodutoo10/Menu.java" afterDir="false" />
@@ -19,6 +22,7 @@
       <change afterPath="$PROJECT_DIR$/../../10_tunnirakenduse_lahendus/kodutoo10/src/main/java/ee/nicol/kodutoo10/TellimusController.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../../10_tunnirakenduse_lahendus/kodutoo_10/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kodutoo1/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../kodutoo1/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
