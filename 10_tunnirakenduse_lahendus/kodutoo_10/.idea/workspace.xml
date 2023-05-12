@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1379f136-598d-442f-9fc2-12b1344cdba1" name="Changes" comment="" />
+    <list default="true" id="1379f136-598d-442f-9fc2-12b1344cdba1" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../../11_proovikontrolltoo2/proovikontrolltoo/src/main/java/ee/nicol/proovikontrolltoo/ToiduaineController.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../11_proovikontrolltoo2/proovikontrolltoo/src/main/java/ee/nicol/proovikontrolltoo/ToiduaineController.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -23,6 +25,7 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "C:/Users/momos/Documents/GitHub/oo2023/10_tunnirakenduse_lahendus/kodutoo10",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -39,6 +42,7 @@
       <option name="presentableId" value="Default" />
       <updated>1683209068763</updated>
       <workItem from="1683209069985" duration="469000" />
+      <workItem from="1683816812891" duration="23000" />
     </task>
     <servers />
   </component>

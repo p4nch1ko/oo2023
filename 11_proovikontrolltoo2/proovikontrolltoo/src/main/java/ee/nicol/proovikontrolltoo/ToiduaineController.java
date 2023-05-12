@@ -71,7 +71,7 @@ public abstract class ToiduaineController {
     }
 
 
-    //localhost:8080/kustuta-toiduaine?id=1
+    //6
     @GetMapping("kustuta-toiduaine")
     public List<Toiduaine> kustutaToiduaine (
             @RequestParam Long id
