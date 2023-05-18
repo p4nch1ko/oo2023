@@ -18,25 +18,30 @@ public class LoomListController {
             new Loom(3,"Küülik", "3", true)
     ));
 
+    // localhost:8080/loom
     @GetMapping("loom")
     public List<Loom> saaLoom() {
         return loom;
     }
 
+    // localhost:8080/kustuta-loom/1
     @GetMapping ("kustuta-loom/{index}")
     public String kustutaLoom(@PathVariable int index) {
         loom.remove(index);
         return "Loom oli kustutatud!";
     }
 
+    // localhost:8080/lisa-loom
     @GetMapping("lisa-loom")
-    public List<Loom> lisaLoom(
+    public Loom lisaLoom(
             @RequestParam int id,
             @RequestParam String nimi,
             @RequestParam String vanus,
             @RequestParam boolean onAktiivne
     ) {
-        loom.add(new Loom(id, nimi, vanus, onAktiivne));
-        return loom;
+        Loom newLoom = new Loom(id, nimi, vanus, onAktiivne);
+        loom.add(newLoom);
+        return newLoom;
     }
+
 }

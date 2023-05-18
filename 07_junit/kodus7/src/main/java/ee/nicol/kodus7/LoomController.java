@@ -9,18 +9,21 @@ public class LoomController {
 
     Loom loom = new Loom(1,"Kass","3",true);
 
-    // localhost:8080/loomad/
+    // localhost:8080/loomad
     @GetMapping("loomad")
     public Loom saaLoom(){
         return loom;
     }
 
+    // localhost:8080/kustuta-loom
     @GetMapping("kustuta-loom")
     public String kustutaLoom(){
         loom = null;
         return "Loom oli edukalt kustutatud";
     }
 
+
+    // localhost:8080/muuda-loom
     @GetMapping("muuda-loom")
     public Loom muudaLoom() {
         loom.setOnAktiivne(!loom.isOnAktiivne());
