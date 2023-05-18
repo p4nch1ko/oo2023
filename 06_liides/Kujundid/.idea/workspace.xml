@@ -5,18 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="39eeac43-b489-47b4-8ccb-398884fa1178" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/../../09_tunnirakenduse_lahendus/Primitiivid/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../09_tunnirakenduse_lahendus/Primitiivid/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../09_tunnirakenduse_lahendus/Primitiivid/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../09_tunnirakenduse_lahendus/Primitiivid/mvnw" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../09_tunnirakenduse_lahendus/Primitiivid/mvnw.cmd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../09_tunnirakenduse_lahendus/Primitiivid/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../09_tunnirakenduse_lahendus/Primitiivid/src/main/java/ee/nicol/primitiivid/PrimitiividApplication.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../09_tunnirakenduse_lahendus/Primitiivid/src/main/resources/application.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../09_tunnirakenduse_lahendus/Primitiivid/src/test/java/ee/nicol/primitiivid/PrimitiividApplicationTests.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../03_klassikomplekt/Game/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../03_klassikomplekt/Game/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kodus6/kodus6.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -50,7 +40,9 @@
     "Repository.Attach.Sources": "false",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "C:/Users/momos/Documents/GitHub/oo2023/11_proovikontrolltoo2/proovikontrolltoo",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -67,6 +59,7 @@
       <option name="presentableId" value="Default" />
       <updated>1683125839804</updated>
       <workItem from="1683125840888" duration="3158000" />
+      <workItem from="1683874654415" duration="521000" />
     </task>
     <servers />
   </component>
